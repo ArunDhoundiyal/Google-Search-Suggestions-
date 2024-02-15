@@ -1,0 +1,17 @@
+.search-item {
+  color: #64748b;
+}
+
+.search-arrow-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow-size {
+  height: 20px;
+  padding-right: 40px;
+}
+.button {
+  border: 0px;
+  background-color: #ffffff;
+}
